@@ -16,7 +16,7 @@
  </nav>
 </header>
 <div id="center">
-<div id="center-set"> - Chaitra Patgar
+<div id="center-set"> - Chaitra 
 <div id="signup">
 <div id="signup-st">
 <div align="center">
